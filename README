@@ -1,0 +1,10 @@
+'hj' is a simple translator gadget which is based on HJ English.
+
+To install hj, please run the setup.sh script.
+
+You must have the root privilege. Otherwise you can use the 'sudo' command to simulate the root privilege.
+
+Execute the script as follows:
+./setup.sh
+or 
+sudo ./setup.sh
