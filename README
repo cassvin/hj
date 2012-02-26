@@ -5,6 +5,13 @@ To install hj, please run the setup.sh script.
 You must have the root privilege. Otherwise you can use the 'sudo' command to simulate the root privilege.
 
 Execute the script as follows:
-./setup.sh
+./setup.sh (require the root privilege)
 or 
 sudo ./setup.sh
+
+Python and python-pyquery are required. 'python-pyquery' is a jQuery-like library for python. You can install python-pyquery in Ubuntu as follows:
+sudo apt-get install python-pyquery 
+or
+sudo pip install pyquery
+or 
+sudo easy_install pyquery
