@@ -68,6 +68,6 @@ if __name__ == '__main__':
             print 'Error: %s' % e
             continue
         else:
-			print rs.get('pron', None)
-			print rs.get('mean', None)
+            print rs.get('pron', None)
+            print rs.get('mean', None)
         
